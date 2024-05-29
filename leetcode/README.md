@@ -15,3 +15,4 @@
 | Day 11 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) | [My Solution](#) |
 | Day 12 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) | [My Solution](#) |
 | Day 13 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/) | [My Solution](#) |
+| Day 14 | [](https://leetcode.com/problems/valid-parentheses/description/) | [Python](../_images/day-14.jpg) [Rust](../_images/day-14_rust.jpg) |
