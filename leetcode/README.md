@@ -19,9 +19,9 @@
 | Day 11 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) | [My Solution](#)  | [My Solution](#) |
 | Day 12 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) | [My Solution](#)  | [My Solution](#) |
 | Day 13 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/) | [My Solution](#)  | [My Solution](#) |
-| Day 14 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Python](../_images/day-14.py.jpg), [Rust](../_images/day-14.rs.jpg) | [Python](../leetcode/day-14_valid_parenthesis.py), [Rust](../leetcode/day-14_valid_parenthesis.rs) |
+| Day 14 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Python](../leetcode/day-14_valid_parenthesis.py), [Rust](../leetcode/day-14_valid_parenthesis.rs) | [Python](../_images/day-14.py.jpg), [Rust](../_images/day-14.rs.jpg) |
 
 ## WK 3
 | Day  | Problem | Solution | Submission |
 |------|------|------|------|
-| Day 15 | [Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | [Python](../_images/day-15.py.jpg), [Cpp](../_images/day-15.cpp.jpg) | [Python](../leetcode/day-15_even_digit_numbers.py), [Cpp](../leetcode/day-15_even_digit_numbers.cpp) |
+| Day 15 | [Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | [Python](../leetcode/day-15_even_digit_numbers.py), [Cpp](../leetcode/day-15_even_digit_numbers.cpp) | [Python](../_images/day-15.py.jpg), [Cpp](../_images/day-15.cpp.jpg) |
