@@ -1,4 +1,4 @@
-pub fn is_valid(s: String) -> bool {
+fn is_valid(s: String) -> bool {
     let pairs: Vec<(char, char)> = vec![('}', '{'), (')', '('), (']', '[')];
 
     if s.len() % 2 != 0 {
